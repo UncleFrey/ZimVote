@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="loading">
+        <item>Loading, please wait...</item>
+    </string-array>
+
+    <string-array name="secLevel">
+        <item>Level 1</item>
+        <item>Level 2</item>
+        <item>Level 3</item>
+    </string-array>
+
+    <string-array name="campaignType">
+        <item>National Campaign</item>
+        <item>Constituency Campaign</item>
+        <item>Ward Level Campaign</item>
+    </string-array>
+
+    <string-array name="provinces">
+        <item>HARARE</item>
+        <item>MANICALAND</item>
+        <item>MASHONALAND CENTRAL</item>
+        <item>MASHONALAND EAST</item>
+        <item>MASHONALAND WEST</item>
+        <item>MASVINGO</item>
+        <item>MATEBELELAND NORTH</item>
+        <item>MATEBELELAND SOUTH</item>
+        <item>MIDLANDS</item>
+    </string-array>
+
+    <string-array name="harareDistricts">
+        <item>Alexandra Park</item>
+        <item>The Avenues</item>
+        <item>Avondale</item>
+        <item>Belvedere</item>
+        <item>Borrowdale</item>
+        <item>Budiriro</item>
+        <item>Dzivarasekwa</item>
+        <item>Emerald Hill</item>
+        <item>Glen Norah</item>
+        <item>Glen View</item>
+        <item>Greendale</item>
+        <item>HatField</item>
+        <item>HighField</item>
+        <item>Kuwadzana</item>
+        <item>Mabelreign</item>
+        <item>Mabvuku</item>
+        <item>Mbare</item>
+        <item>Mount Pleasant</item>
+        <item>Mufakose</item>
+        <item>Waterfalls</item>
+        <item>Willowvale</item>
+        <item>Workington</item>
+    </string-array>
+
+    <string-array name="manicalandDistricts">
+        <item>Buhera</item>
+        <item>Chimanimani</item>
+        <item>Chipinge</item>
+        <item>Makoni</item>
+        <item>Mutare</item>
+        <item>Mutasa</item>
+        <item>Nyanga</item>
+    </string-array>
+
+    <string-array name="mashonalandCentralDistricts">
+        <item>Bindura</item>
+        <item>Guruve</item>
+        <item>Mazowe</item>
+        <item>Mbire</item>
+        <item>Mount Darwin</item>
+        <item>Muzarabani</item>
+        <item>Rushinga</item>
+        <item>Shamva</item>
+    </string-array>
+
+    <string-array name="mashonalandEastDistricts">
+        <item>Chikomba</item>
+        <item>Goromonzi</item>
+        <item>Marondera</item>
+        <item>Mudzi</item>
+        <item>Murehwa</item>
+        <item>Mutoko</item>
+        <item>Seke</item>
+        <item>Uzumba Maramba</item>
+        <item>Hwedza</item>
+    </string-array>
+
+    <string-array name="mashonalandWestDistricts">
+        <item>Chegutu</item>
+        <item>Chinhoyi</item>
+        <item>Hurungwe</item>
+        <item>Kariba</item>
+        <item>Makonde</item>
+        <item>Mhondoro</item>
+        <item>Sanyati</item>
+        <item>Zvimba</item>
+    </string-array>
+
+    <string-array name="masvingoDistricts">
+        <item>Bikita</item>
+        <item>Chiredzi</item>
+        <item>Chivi</item>
+        <item>Gutu</item>
+        <item>Masvingo</item>
+        <item>Mwenezi</item>
+        <item>Zaka</item>
+    </string-array>
+
+    <string-array name="matebelelandNorthDistricts">
+        <item>Binga</item>
+        <item>Bubi</item>
+        <item>Hwange</item>
+        <item>Lupane</item>
+        <item>Nkayi</item>
+        <item>Tsholotsho</item>
+        <item>Umguza</item>
+    </string-array>
+
+    <string-array name="matebelelandSouthDistricts">
+        <item>BeitBridge</item>
+        <item>Bulilima</item>
+        <item>Gwanda</item>
+        <item>Insiza</item>
+        <item>Mangwe</item>
+        <item>Matobo</item>
+        <item>Umzingwane</item>
+    </string-array>
+
+    <string-array name="midlandsDistricts">
+        <item>Chirumhanzu</item>
+        <item>Gokwe North</item>
+        <item>Gokwe South</item>
+        <item>Gweru</item>
+        <item>Kwekwe</item>
+        <item>Mberengwa</item>
+        <item>Shurugwi</item>
+        <item>Zvishavane</item>
+    </string-array>
+
+</resources>

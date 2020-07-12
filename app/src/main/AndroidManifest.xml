@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.sekaistudios.zimvote">
+
+    <uses-permission android:name="android.permission.USE_BIOMETRIC" />
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/app_logo"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.AppCompat.Light.NoActionBar">
+        <activity android:name=".RealTimeResults"></activity>
+        <activity android:name=".eBallot" />
+        <activity android:name=".VoterValidation" />
+        <activity android:name=".RuntimeInstructions" />
+        <activity android:name=".PartyManagement" />
+        <activity android:name=".CandidatesManagement" />
+        <activity android:name=".CampaignsManagement" />
+        <activity android:name=".ElectionsManagement" />
+        <activity android:name=".ZecAdminConsole" />
+        <activity android:name=".VoterRegistration" />
+        <activity android:name=".ConsoleSelection" />
+        <activity android:name=".OfficialSignUp" />
+        <activity android:name=".OfficialLogin" />
+        <activity android:name=".Splash">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

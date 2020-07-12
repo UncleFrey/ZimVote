@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ZimVote</string>
+    <string name="head_login">LOGIN</string>
+    <string name="head_signup">SIGNUP</string>
+    <string name="head_email">Email</string>
+    <string name="head_pin">Pin</string>
+    <string name="hint_email">_________@zec.zim</string>
+    <string name="hint_pin">Input Pin</string>
+    <string name="no_acc">No Account?, Click Here!</string>
+    <string name="already_signed">Already Signed up?, Click Here!</string>
+    <string name="secLevel">Security Level</string>
+    <string name="name">Name</string>
+    <string name="hint_name">Input Full Name</string>
+    <string name="id">National ID</string>
+    <string name="hint_id">e.g 01-2345678 A90</string>
+</resources>

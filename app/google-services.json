@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "301754951757",
+    "firebase_url": "https://zimvote-3568f.firebaseio.com",
+    "project_id": "zimvote-3568f",
+    "storage_bucket": "zimvote-3568f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:301754951757:android:dd64a927179ecba902d404",
+        "android_client_info": {
+          "package_name": "com.sekaistudios.zimvote"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "301754951757-r2vsao07r7aicc42n25vu057qd3i9cl2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDA3CUSWj1FysA8t4Acj9mE4PCMw3tcEU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "301754951757-r2vsao07r7aicc42n25vu057qd3i9cl2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
